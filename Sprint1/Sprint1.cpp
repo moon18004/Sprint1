@@ -85,10 +85,11 @@ void select_menu(ResidentGroup& rs) {
 				return;
 			}
 		}
-		else if (input == 3) {
+		else if (input == 3) {                  // Add a resident
 			add_resident(rs);
 		}
-		else {
+		else {                                  // Exit
+			cout << "Bye" << endl;
 			return;
 		}
 	} 

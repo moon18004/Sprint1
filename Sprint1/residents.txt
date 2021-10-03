@@ -10,8 +10,9 @@ Pocatello,Lily,Harris,13,W
 Rexburg,Jacob,Smith,22,M
 Rexburg,Mason,Johnson,28,M
 Rexburg,Ethan,Miller,17,M
-Rexburg,Aiden,Moore,23,M
+Rexburg,Aiden,Moore,23,W
 Rexburg,Daniel,Elizabeth,53,M
+Rexburg,Moon,Moon,25,M
 Sandpoint,Natalie,8,0,Alexander,Wilson,39,M
 Twin Falls,Jayden,Jones,14,M
 Twin Falls,Noah,Brown,11,M
