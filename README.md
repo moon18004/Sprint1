@@ -1,10 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
+This is a program that can manage the information or residents in cities. It can store information on the gender, age, and name of residents living in the city and add residents into a city. And it writes the updated residents' information in a file. You can display all the residents or according to the gender or age of the city you want. 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,19 +8,21 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Visual Studio
+* C++
+* Git / GitHub
 
-{Describe the programming language that you used and any libraries.}
+
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [freeCodeCamp](https://www.freecodecamp.org/news/c-plus-plus-map-explained-with-examples/)
+* [stackoverflow](https://stackoverflow.com/questions/8192570/use-of-list-inside-map-c)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Resident ID is needed to distinguish between residents with the same information
+* A function that delete a resident
+* A function that can move resident from a city to another city
+
